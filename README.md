@@ -64,9 +64,9 @@ Para un apartamento en el barrio de Sol con:
 - 3 camas
 - 80€/noche
 
-**Predicción**: ~[valor calculado] m²
+**Predicción**: ~95.6 m²
 
-Cada habitación adicional aumenta aproximadamente **[coeficiente]** m².
+Cada habitación adicional aumenta aproximadamente **15.4** m².
 
 ## 🛠️ Tecnologías Utilizadas
 
